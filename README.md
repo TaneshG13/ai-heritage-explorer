@@ -35,7 +35,7 @@ This project combines several modern AI and web technologies:
     
 *   **Backend & Orchestration:** [Python](https://www.python.org/), [LangChain](https://www.langchain.com/)
     
-*   **LLM:** [Llama 3.1 70b](https://llama.meta.com/) (via [Groq API](https://groq.com/))
+*   **LLM:** [Llama 3.1 8b](https://llama.meta.com/) (via [Groq API](https://groq.com/))
     
 *   **Retrieval:** [Wikipedia API](https://pypi.org/project/wikipedia/), [Met Museum API](https://metmuseum.github.io/)
     
